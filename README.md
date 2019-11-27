@@ -1,2 +1,2 @@
 # website
-[personal website](paramdeshpande.github.io)
+[personal website](https://paramdeshpande.github.io/)
